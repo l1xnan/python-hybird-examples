@@ -1,0 +1,9 @@
+[package]
+name = "hello-pyo3"
+version = "0.1.0"
+authors = ["test <test@example.org>"]
+edition = "2018"
+
+[dependencies]
+
+
